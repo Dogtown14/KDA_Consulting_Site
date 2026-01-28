@@ -2,15 +2,10 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #872208; /* Replace with your desired color code or name */
-}
-
-
-body {
   font-family: Arial, sans-serif;
   margin: 0;
   color: #1a1a1a;
-  background: #fafafa;
+  background: #872208;
 }
 .container {
   max-width: 900px;
@@ -85,4 +80,5 @@ footer {
   padding: 1rem 0;
   margin-top: 2rem;
 }
+
 

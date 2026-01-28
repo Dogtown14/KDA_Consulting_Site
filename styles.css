@@ -1,4 +1,11 @@
 /* Global Reset + Typography */
+@import "{{ site.theme }}";
+
+body {
+  background-color: #872208; /* Replace with your desired color code or name */
+}
+
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -78,3 +85,4 @@ footer {
   padding: 1rem 0;
   margin-top: 2rem;
 }
+
